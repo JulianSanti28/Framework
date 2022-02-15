@@ -1,0 +1,8 @@
+com\unicauca\framework\factory\FabricaItemMedicion.class
+com\unicauca\framework\model\Producto.class
+com\unicauca\framework\presentation\FabricaCalidadCerveza.class
+com\unicauca\framework\presentation\Cerveza.class
+com\unicauca\framework\presentation\SensorPesoCerveza.class
+com\unicauca\framework\presentation\ClienteMain.class
+com\unicauca\framework\model\Sensor.class
+com\unicauca\framework\factory\ItemMedicion.class
